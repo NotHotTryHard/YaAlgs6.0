@@ -1,5 +1,5 @@
 # YaAlgs6.0
- Code implementations and solutions for algorithms coursework for the 6th run of the Yandex algorythms course. 
+ Code implementations and solutions for algorithms coursework for the 6th run of the Yandex algorithms course. 
 
 Link to the cource: https://yandex.ru/yaintern/training/algorithm-training?utm_campaign=training6&utm_medium=social&utm_source=telegram&utm_term=yandex
 
